@@ -1,0 +1,11 @@
+pid,category,type,size,stock,price
+101,Shoes,Badminton,12,63,4500
+102,Shoes,Cricket,12,45,5000
+103,Shoes ,Football,11,81,3000
+104,Shoes,Walking,10,18,7000
+105,Shoes,Hockey,9,72,8000
+201,Accessories,Sweat Bands,OneSize,30,3000
+202,Accessories,Wallets,OneSize,60,5000
+203,Accessories,Belts,OneSize,99,2000
+301,Clothes,Jerseys,"M, L, XL",40,7000
+302,Clothes,Sweat Shirt,"S, M, L",36,2000
